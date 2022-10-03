@@ -1,0 +1,15 @@
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\ref\BusinessLogicLayer.dll
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\Core.dll
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\bin\Debug\net6.0\Core.pdb
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+C:\Users\Sololearn\source\repos\BankProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
